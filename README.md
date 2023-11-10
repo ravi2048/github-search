@@ -5,4 +5,4 @@ To run this app:
 3. Start the app by running `npm start`
 
 Or go to the live deployed app here:
-https://github-search-nvjcdwhnd-ravi2048.vercel.app/
+https://github-search-gamma-eight.vercel.app/
