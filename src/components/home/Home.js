@@ -86,7 +86,7 @@ function Home() {
                 <button onClick={handleReset}>Reset All</button>
             </div>
             <div className='result-container'>
-                <SearchResults data={data} loading={loading} />
+                { data?.length ? <SearchResults data={data} loading={loading} /> : null }
             </div>
         </div>
     );
